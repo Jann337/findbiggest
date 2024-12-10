@@ -2,6 +2,9 @@
 
 A Python GUI application that helps you find and navigate the largest files and folders in your system.
 
+![Program](findbiggest.png)
+
+
 ## Features
 
 - **Size Analysis**: Quickly identify the largest files and folders in any directory
@@ -54,4 +57,3 @@ A Python GUI application that helps you find and navigate the largest files and 
 
 Feel free to submit issues and enhancement requests!
 
-![Application Screenshot](findbiggest.png)
