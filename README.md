@@ -53,3 +53,5 @@ A Python GUI application that helps you find and navigate the largest files and 
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
+
+![Application Screenshot](findbiggest.png)
