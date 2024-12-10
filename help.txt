@@ -1,0 +1,43 @@
+File Size Explorer - Help Guide
+
+Getting Started:
+--------------
+1. Browse: Click the "Browse" button at the top to select a directory
+2. Scan: Click "Scan" to analyze the selected directory
+3. Back: Use to navigate to the parent directory
+
+Size Filtering:
+-------------
+‣ Default minimum size is 50MB
+‣ Custom Size Filter:
+    ‣ Check "Custom size" to enable
+    ‣ Enter your desired size value
+    ‣ Select unit (MB or GB)
+
+Navigation & Results:
+------------------
+‣ Double-click any folder to explore its contents
+‣ Use the "Back" button to return to previous directory
+‣ Click column headers to sort results
+‣ Progress bar shows scanning status with percentage
+
+Working with Items:
+----------------
+‣ Double-click: Opens item location in Explorer
+‣ Right-click menu options:
+    ‣ Copy name
+    ‣ Copy path
+    ‣ Open containing folder
+
+Display Information:
+-----------------
+‣ Size: File/folder size in appropriate units (MB, GB)
+‣ Path: Full location of the item
+‣ Progress: Shows scanning progress with percentage
+
+Tips:
+----
+‣ Use sorting to quickly find the largest items
+‣ Watch the progress bar for scan status
+‣ The status bar shows helpful messages
+‣ Regular scans help manage disk space effectively
